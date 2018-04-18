@@ -4,8 +4,6 @@ public class TestFrog {
 
 	public static void main(String[] args) {
 		
-		int zevel;
-
 		Frog[] Fim = new Frog[5];
 		int[] N = new int[Fim.length];
 		for (int i = 0; i < Fim.length; i++) {
